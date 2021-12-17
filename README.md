@@ -48,12 +48,10 @@ Questions? Contact: Will Cerny and Viraj Manwadkar
 - Curve Fitting and Linear Regression 
 - Physics Application: spectral fitting (e.g Lyman-alpha redshifts?)
 
-
 **Week 7 (02/25/21)**:
 - More on Curve Fitting and Linear Regression
 - Project help time?
 - Physics Application: ???????????
-
 
 ## Final Projects 
 Due: 3/04/21
