@@ -3,7 +3,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 
 
 
-Draft Syllabus:
+# Draft Syllabus:
 
 **Week 0 (asynchronous)**:
 - Installing Python 
