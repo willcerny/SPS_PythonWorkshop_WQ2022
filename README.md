@@ -37,23 +37,25 @@ Questions? Contact: Will Cerny and Viraj Manwadkar
 - Physics Application: ????
 
 **Week 5 (02/18/21)**:
-- Introduction to Pandas (for handling tabular data)
+- Introduction to Pandas (handling tabular data)
 - More advanced plotting with Matplotlib
-- Physics Application: Exoplanet Demographics (as in 2021)
-
-**Week 6 (02/25/21)**:
-- Curve Fitting and Linear Regression
-- Physics Application: spectral fitting (e.g Lyman-alpha redshifts?)
+- Physics Application: Exoplanet Demographics
 - Introduction to Projects
+- 
+**Week 6 (02/25/21)**:
+- Introduction to Optimization/Minimization
+- Chi^2 fits 
+- Curve Fitting and Linear Regression 
+- Physics Application: spectral fitting (e.g Lyman-alpha redshifts?)
+
 
 **Week 7 (02/25/21)**:
-- Curve Fitting and Linear Regression
+- More on Curve Fitting and Linear Regression
+- Project help time?
 - Physics Application: ???????????
 
 
-
-
 ## Final Projects 
-
+Due: 3/04/21
 
 
