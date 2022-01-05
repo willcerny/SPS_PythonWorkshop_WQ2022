@@ -28,25 +28,23 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Recap of Numpy
 - More Numpy Operations
 - Introduction to plotting with matplotlib
-- Physics Application: Climate Change Temperature Data? 
 
 **Week 4 (02/11/21)**:
 - Recap of Matplotlib
 - More Numpy Operations
 - Introduction to plotting with matplotlib
-- Physics Application: ????
 
 **Week 5 (02/18/21)**:
 - Introduction to Pandas (handling tabular data)
 - More advanced plotting with Matplotlib
 - Physics Application: Exoplanet Demographics
+- Possibly Linear Regression
 - Introduction to Projects
 - 
 **Week 6 (02/25/21)**:
 - Introduction to Optimization/Minimization
 - Chi^2 fits 
-- Curve Fitting and Linear Regression 
-- Physics Application: spectral fitting (e.g Lyman-alpha redshifts?)
+- Curve Fitting
 
 **Week 7 (02/25/21)**:
 - Project help time
