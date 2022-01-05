@@ -14,12 +14,12 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Troubleshooting Installation Issues
 - Arithmetic 
 - Variables and Data Types 
+- Lists and List Comprehension 
 - Functions
 
 **Week 2 (01/21/21)**:
 - Recap of Previous Week
 - Loops
-- Lists and List Comprehension 
 - Introduction to Packages
 - Numpy and Arrays 
 
