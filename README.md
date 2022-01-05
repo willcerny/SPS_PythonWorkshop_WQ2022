@@ -1,9 +1,8 @@
 # SPS "Python for Research" Workshop, Winter Quarter 2022
 
-Instructional Materials for the second iteration of UChicago Society of Physics Students' Python workshop series. Currently under development.
-Questions? Contact: Will Cerny and Viraj Manwadkar (willcerny@gmail.com)
+Instructional Materials for the second iteration of UChicago Society of Physics Students' Python workshop series. The goal of the workshop series is to help complete beginners get a basic handle on coding in the context of Physics and adjacent fields, in hopes of lowering this barrier to entry into undergraduate research.
 
-
+ Currently under development. Questions? Contact: Will Cerny and Viraj Manwadkar (willcerny@gmail.com)
 
 ## Draft Syllabus:
 
@@ -16,7 +15,7 @@ Questions? Contact: Will Cerny and Viraj Manwadkar (willcerny@gmail.com)
 - Arithmetic 
 - Variables and Data Types 
 - Functions
-- Physics Application: Unit Conversions?
+- Physics Application: Unit Conversions
 
 **Week 2 (01/21/21)**:
 - Recap of Previous Week
