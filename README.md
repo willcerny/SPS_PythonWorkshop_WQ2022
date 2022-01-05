@@ -10,19 +10,17 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Installing Python 
 - Creating/Loading a Jupyter Notebook
 
-**Week 1 (01/21/21?)**:
+**Week 1 (01/21/21)**:
 - Troubleshooting Installation Issues
 - Arithmetic 
 - Variables and Data Types 
 - Functions
-- Physics Application: Unit Conversions
 
 **Week 2 (01/21/21)**:
 - Recap of Previous Week
 - Loops
 - Lists and List Comprehension 
 - Introduction to Numpy and Arrays 
-- Physics Application: ????
 
 **Week 3 (02/04/21)**:
 - Recap of Numpy
