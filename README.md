@@ -20,7 +20,8 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Recap of Previous Week
 - Loops
 - Lists and List Comprehension 
-- Introduction to Numpy and Arrays 
+- Introduction to Packages
+- Numpy and Arrays 
 
 **Week 3 (02/04/21)**:
 - Recap of Numpy
