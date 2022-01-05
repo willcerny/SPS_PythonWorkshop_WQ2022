@@ -20,6 +20,7 @@ Questions? Contact: Will Cerny and Viraj Manwadkar
 
 **Week 2 (01/21/21)**:
 - Recap of Previous Week
+- Loops
 - Lists and List Comprehension 
 - Introduction to Numpy and Arrays 
 - Physics Application: ????
