@@ -2,7 +2,7 @@
 
 Instructional Materials for the second iteration of UChicago Society of Physics Students' Python workshop series. The goal of the workshop series is to help complete beginners get a basic handle on coding in the context of Physics and adjacent fields, in hopes of lowering this barrier to entry into undergraduate research.
 
- Currently under development. Questions? Contact: Will Cerny and Viraj Manwadkar (willcerny@gmail.com)
+ Currently under development. Questions? Contact: Will Cerny (willcerny@gmail.com) and Viraj Manwadkar (virajmanwadkar@gmail.com)
 
 ## Draft Syllabus:
 
