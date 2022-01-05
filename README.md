@@ -37,9 +37,9 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Introduction to Pandas (handling tabular data)
 - More advanced plotting with Matplotlib
 - Physics Application: Exoplanet Demographics
-- Possibly Linear Regression
+- Linear Regression
 - Introduction to Projects
-- 
+
 **Week 6 (02/25/21)**:
 - Introduction to Optimization/Minimization
 - Chi^2 fits 
