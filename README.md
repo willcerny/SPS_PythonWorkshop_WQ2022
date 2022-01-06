@@ -6,7 +6,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 
 ## Draft Syllabus:
 
-**Week 0 (asynchronous; week of January 10th - 14th)**:
+**Week 0 (asynchronous)**:
 - Installing Python 
 - Creating/Loading a Jupyter Notebook
 
