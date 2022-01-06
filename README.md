@@ -36,7 +36,6 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 **Week 5 (02/18/21)**:
 - Introduction to Pandas (handling tabular data)
 - More advanced plotting with Matplotlib
-- Physics Application: Exoplanet Demographics
 - Linear Regression
 - Introduction to Projects
 
