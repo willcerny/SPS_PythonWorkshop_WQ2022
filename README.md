@@ -9,7 +9,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 **Week 0 (asynchronous)**:
 - Installing Python 
 - Creating/Loading a Jupyter Notebook
-- Troubleshooting Installation Issues
+- Troubleshooting Installation Issues (first week, Friday)
 
 **Week 1 (01/21/21; Will)**:
 
