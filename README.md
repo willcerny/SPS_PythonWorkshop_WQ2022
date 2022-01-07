@@ -43,6 +43,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 
 **Week 7 (02/25/21)**:
 - Project help time
+- Bonus Video: interpolation and splines
 
 ## Final Projects 
 Due: 3/04/21
