@@ -9,9 +9,10 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 **Week 0 (asynchronous)**:
 - Installing Python 
 - Creating/Loading a Jupyter Notebook
+- Troubleshooting Installation Issues
 
 **Week 1 (01/21/21; Will)**:
-- Troubleshooting Installation Issues
+
 - Arithmetic 
 - Variables and Data Types 
 - Lists and List Comprehension 
