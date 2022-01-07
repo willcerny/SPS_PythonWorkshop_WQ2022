@@ -17,7 +17,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Lists and List Comprehension 
 - Functions
 
-**Week 2 (01/21/21)**:
+**Week 2 (01/28/21)**:
 - Recap of Previous Week
 - Loops
 - Introduction to Packages
