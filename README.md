@@ -15,34 +15,31 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Arithmetic 
 - Variables and Data Types 
 - Lists and List Comprehension 
-- Functions
 
 **Week 2 (01/28/21)**:
 - Recap of Previous Week
 - Loops
-- Introduction to Packages
-- Numpy and Arrays 
+- Functions
 
 **Week 3 (02/04/21)**:
-- Recap of Numpy
-- More Numpy Operations
-- Introduction to plotting with matplotlib
+- Introduction to Packages
+- Numpy and Arrays 
+- Checkpoint Activity
 
 **Week 4 (02/11/21)**:
-- Recap of Matplotlib
+- Recap of Numpy
 - More Numpy Operations
-- Introduction to plotting with matplotlib
+- Introduction to matplotlib 
 
 **Week 5 (02/18/21)**:
+- More matplotlib
 - Introduction to Pandas (handling tabular data)
-- More advanced plotting with Matplotlib
-- Linear Regression
-- Introduction to Projects
+- Checkpoint Activity (e.g, by-eye-Fit to Data)
 
 **Week 6 (02/25/21)**:
 - Introduction to Optimization/Minimization
 - Chi^2 fits 
-- Curve Fitting
+- Introduction to Projects
 
 **Week 7 (02/25/21)**:
 - Project help time
