@@ -37,12 +37,12 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Introduction to Pandas (handling tabular data)
 - Checkpoint Activity (e.g, by-eye-Fit to Data)
 
-**Week 6 (Week of 2/21/21; Will)**:
+**Week 6 (week of 2/21/21; Will)**:
 - Introduction to Optimization/Minimization
 - Chi^2 fits 
 - Introduction to Projects
 
-**Week 7 (Week of 2/28/21; Will, Viraj, and Jared)**:
+**Week 7 (week of 2/28/21; Will, Viraj, and Jared)**:
 - Project help time
 - Bonus Video: interpolation and splines
 
