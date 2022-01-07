@@ -9,40 +9,40 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 **Week 0 (asynchronous)**:
 - Installing Python 
 - Creating/Loading a Jupyter Notebook
-- Troubleshooting Installation Issues (first week, Friday)
+- Troubleshooting Installation Issues (1/14)
 
-**Week 1 (01/21/21; Will)**:
+**Week 1 (week of 01/17/21; Will)**:
 
 - Arithmetic 
 - Variables and Data Types 
 - Lists and List Comprehension 
 
-**Week 2 (01/28/21; Viraj)**:
+**Week 2 (week of 01/24/21; Viraj)**:
 - Recap of Previous Week
 - Loops
 - Functions
 
-**Week 3 (02/04/21; Will)**:
+**Week 3 (week of 1/31/21; Will)**:
 - Introduction to Packages
 - Numpy and Arrays 
 - Checkpoint Activity
 
-**Week 4 (02/11/21; Viraj)**:
+**Week 4 (week of 02/07/21; Viraj)**:
 - Recap of Numpy
 - More Numpy Operations
 - Introduction to matplotlib 
 
-**Week 5 (02/18/21; Viraj)**:
+**Week 5 (week of 02/14/21; Viraj)**:
 - More matplotlib
 - Introduction to Pandas (handling tabular data)
 - Checkpoint Activity (e.g, by-eye-Fit to Data)
 
-**Week 6 (02/25/21; Will)**:
+**Week 6 (Week of 2/21/21; Will)**:
 - Introduction to Optimization/Minimization
 - Chi^2 fits 
 - Introduction to Projects
 
-**Week 7 (02/25/21; Will, Viraj, and Jared)**:
+**Week 7 (Week of 2/28/21; Will, Viraj, and Jared)**:
 - Project help time
 - Bonus Video: interpolation and splines
 
