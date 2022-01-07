@@ -21,7 +21,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - Loops
 - Functions
 
-**Week 3 (02/04/21; Will + Jared)**:
+**Week 3 (02/04/21; Will)**:
 - Introduction to Packages
 - Numpy and Arrays 
 - Checkpoint Activity
@@ -31,7 +31,7 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 - More Numpy Operations
 - Introduction to matplotlib 
 
-**Week 5 (02/18/21; Viraj + Jared)**:
+**Week 5 (02/18/21; Viraj)**:
 - More matplotlib
 - Introduction to Pandas (handling tabular data)
 - Checkpoint Activity (e.g, by-eye-Fit to Data)
