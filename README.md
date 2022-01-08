@@ -24,13 +24,13 @@ Instructional Materials for the second iteration of UChicago Society of Physics 
 
 **Week 3 (week of 1/31/21; Will)**:
 - Introduction to Packages
-- Numpy and Arrays 
+- Numpy (the package for "numerical Python")  and Arrays 
 - Checkpoint Activity
 
 **Week 4 (week of 02/07/21; Viraj)**:
 - Recap of Numpy
 - More Numpy Operations
-- Introduction to matplotlib 
+- Data Visualization with the matplotlib package
 
 **Week 5 (week of 02/14/21; Viraj)**:
 - More matplotlib
