@@ -2,6 +2,8 @@
 
 Instructional Materials for the second iteration of UChicago Society of Physics Students' Python workshop series. The goal of the workshop series is to help complete beginners get a basic handle on coding in the context of Physics and adjacent fields, in hopes of lowering this barrier to entry into undergraduate research. Absolutely no prior coding or Python experience required - we'll start from the very beginning - installation - and work our way up to more complex topics and ultimately final projects.
 
+Unless communicated otherwise, our weekly lecture times are on Monday's from 5pm - 6pm. We also have help hours over zoom on Thursday's from 5pm - 6pm. The zoom links for each of these meetings will be shared shortly before over slack.
+
  Currently under development. Questions? Contact: Will Cerny (willcerny@gmail.com) and Viraj Manwadkar (virajmanwadkar@gmail.com)
 
 ## Draft Syllabus:
